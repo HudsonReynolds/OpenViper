@@ -1,0 +1,3 @@
+Welcome to the OpenViper repository! Here you will find all of the work that I have done for my F-16 sim project and all of the files. I'll keep the documentation as up to date as I can, but I'm a busy full-time college student. If a file is missing that you think should be there, or you want more information than I provide, send me an email at Hudsonj.reynolds@gmail.com.
+
+For each of the panels, I provide both f3d files and STEP files. The f3d files are the most versatile and should allow you to edit any features of the panels to your desire. I have also included the STEP files for those using other CAD software. In the future I may include PDF / DXF files to allow straight to laser cutting.
