@@ -1,0 +1,16 @@
+F-16 Startup panels:
+Elec panel
+Gear panel
+JFS panel
+Engine RPM gauge
+*Lighting panel
+*External lighting
+Throttle
+Front Controls
+Avionics Power Panel
+*IFF panel
+*Threat Warning
+*CMDS Panel
+HMCS Panel
+*Test
+*Eyebrow lights
